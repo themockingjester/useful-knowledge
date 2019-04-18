@@ -1,0 +1,2 @@
+"full address of .exe file" "full address of script (like python,c,java etc)"
+pause              #it is not mendatory to  use pause here but after using it our file do not ends automatically
