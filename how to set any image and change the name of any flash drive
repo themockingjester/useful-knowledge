@@ -1,0 +1,10 @@
+1)  insert the flash drive
+2)  open notepad
+3) type the following code
+  [autorun]
+  icon=m.ico          #m is the name of image(it should have .ico as its extension)
+  label="hi"          #the name that i want to give to my flash drive or pen drive
+4)  save the file with name autorun.inf in pendrive's root directory (don't save it into a folder in pendrive)
+5)  also save the image in pendrive's root directory
+6) now remove the pendrive and reinsert again and enjoy!!
+  
