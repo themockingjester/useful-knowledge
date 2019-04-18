@@ -1,0 +1,11 @@
+1) first open note pad 
+
+2) copy the following code in it 
+
+Set WshShell = WScript.CreateObject("WScript.Shell") 
+obj = WshShell.Run("""D:\k\cam1.bat""", 0)          #here D:\k\cam1.bat is the address of my file that i want to run
+set WshShell = Nothing 
+
+
+3)  save the file with .vbs extension
+4)  now run the  .vbs file and enjoy!!
