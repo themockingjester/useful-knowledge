@@ -1,0 +1,2 @@
+from selenium import webdriver
+browser = webdriver.Firefox(executable_path=r'Address to geckodriver.exe')
